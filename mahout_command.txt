@@ -1,0 +1,1 @@
+mahout fpg -i output -o patterns -k 50 -method mapreduce -regex '[\ ]' -s 2
